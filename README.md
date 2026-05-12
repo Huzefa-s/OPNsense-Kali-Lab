@@ -9,9 +9,8 @@ The lab is structured into three distinct zones to simulate a "Defense-in-Depth"
 2. **LAN (Management):** A private Host-Only network (192.168.56.x) allowing secure web GUI access from the Windows host.
 3. **Lab-NET (Internal):** A fully isolated virtual network (LabNet) for security testing, preventing any "blast radius" from reaching the host machine.
 
-> [!TIP]
-> **Network Diagram**
-> ![Network Topology](images/topology-diagram.png)
+**Network Diagram**
+![Network Topology](images/topology-diagram.png)
 
 ---
 
