@@ -54,6 +54,3 @@ The lab is structured into three distinct zones to simulate a "Defense-in-Depth"
 - **Network Segmentation:** Experience in creating isolated subnets to protect critical infrastructure.
 - **NAT and Routing:** Understanding how a firewall handles traffic between public and private IPs.
 - **Stateful Packet Inspection (SPI):** Learning how OPNsense tracks conversations to prevent unauthorized entry.
-
----
-*Created by Huzefa Soni - May 12, 2026*
