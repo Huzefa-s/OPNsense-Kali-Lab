@@ -37,8 +37,8 @@ The lab is structured into three distinct zones to simulate a "Defense-in-Depth"
 ### Phase 1: Infrastructure and Firewall Deployment
 - [x] **Hypervisor Setup:** Installed VirtualBox 7.2.8 and configured Host-Only Virtual Switch.
 - [x] **VM Provisioning:** Created the OPNsense shell with 2GB RAM and 3-interface mapping.
-- [ ] **OS Installation:** Booting from ISO and installing OPNsense to virtual disk (ZFS).
-- [ ] **Interface Assignment:** Mapping em0, em1, and em2 to WAN, LAN, and OPT1.
+- [x] **OS Installation:** Booting from ISO and installing OPNsense to virtual disk (ZFS).
+- [x] **Interface Assignment:** Mapping em0, em1, and em2 to WAN, LAN, and OPT1.
 
 **Proof of Configuration:**
 ![VirtualBox Settings](images/vbox-settings.png)
